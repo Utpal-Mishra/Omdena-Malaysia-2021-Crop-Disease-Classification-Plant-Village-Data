@@ -4,11 +4,7 @@ h5py==2.10.0
 Keras-Preprocessing==1.1.2
 matplotlib==3.2.1
 numpy==1.18.4
-oauthlib==3.1.0
 pandas==1.0.3
-tensorflow==2.2.0
-tensorflow-estimator==2.2.0
 urllib3==1.25.9
-webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
